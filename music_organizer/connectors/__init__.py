@@ -1,1 +1,1 @@
-from tracks.connectors.spotify_connector import SpotifyConnector
+from connectors.spotify_connector import SpotifyConnector
